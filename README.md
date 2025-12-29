@@ -27,7 +27,7 @@
 ### Блок-схема
 ![Блок-схема алгоритма](scheme.png)
 
-[https://github.com/glebofrl/labVSU/blob/master/scheme.png](https://github.com/glebofrl/lab11VSTU/blob/master/scheme.png)
+[https://github.com/glebofrl/lab11VSTU/blob/master/scheme.png](https://github.com/glebofrl/lab11VSTU/blob/master/scheme.png)
 
 ## 2. Реализация программы
 
